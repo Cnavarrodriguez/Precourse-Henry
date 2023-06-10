@@ -1,2 +1,1 @@
-# Precourse-Henry
-este es un repositorio de prueba del modulo 2
+Este es un repositorio de prueba para clonarlo en git bush
